@@ -140,10 +140,6 @@ Before installing, the app verifies the update's cryptographic signature and mak
   - sync your bank through SimpleFIN, **if you choose to connect it**, and
   - check for updates.
 
-## Support and feedback
-
-Found a bug or have an idea? [Open an issue](https://github.com/zjubiz/sabioflow-releases/issues). Please don't include financial details or attach your `.sabioflow` file.
-
 ## License
 
 SabioFlow is proprietary software, **not open source**. This repository contains only release builds and documentation. See [LICENSE](LICENSE) for the terms that apply to using the app.
